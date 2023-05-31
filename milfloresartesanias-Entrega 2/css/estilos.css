@@ -1,0 +1,116 @@
+.fondoPagina{
+    background-color:#FCC0BF;
+}
+
+#encabezadoInicio{
+    background-color: white;
+    text-align: center;
+    font-size: 10%;
+}
+
+#menu{
+    text-align: left;
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+#menuContacto{
+    text-align: left;
+    list-style-type: none;
+}
+
+#menuPersonalizados{
+    text-align: left;
+    list-style-type: none;
+}
+
+#menuPago{
+    text-align: left;
+    list-style-type: none;
+}
+
+#menuEnvios{
+    text-align: left;
+    list-style-type: none;
+
+}
+
+#encabezadoContacto{
+    background-color: white;
+    text-align: center;
+}
+
+#encabezadoEnvios{
+    background-color: white;
+    text-align: center;
+}
+
+#encabezadoPagos{
+    background-color: white;
+    text-align: center;
+}
+
+#encabezadoPersonalizados{
+    background-color: white;
+    text-align: center;
+}
+
+
+.tamañoLista{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex: row;
+}
+
+.aside{
+    background-image: url("../multimedia/fondotitulos.jpg");
+    font-size: 30px;
+    text-align: center;
+}
+
+.article{
+    background-color: white;
+    font-size: 30px;
+    text-align: center;
+    display: inline-block;
+}
+
+
+
+
+.textoArticle{
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.listaArticle{
+    font-size: 20px;
+    background-color: white;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tabla{
+    font-size: 25px;
+}
+
+.fondoFooter{
+    background-color: #FFE983;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.redestitulo{
+    text-decoration: underline;
+}
+
+.fondoPaginaContacto{
+    background-color:#FCC0BF;
+}
+
+.tituloVideo{
+    background-color: white;
+    text-align: center;
+}
+
